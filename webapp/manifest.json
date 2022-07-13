@@ -45,7 +45,9 @@
       "i18n": {
         "type": "sap.ui.model.resource.ResourceModel",
         "settings": {
-          "bundleName": "my.nice.app.i18n.i18n"
+          "bundleName": "my.nice.app.i18n.i18n",
+          "supportedLocales": ["en_US", "pt_BR"],
+          "fallbackLocale": ["en_US"]
         }
       }
     },
