@@ -34,6 +34,6 @@
 				</ColumnListItem>
 			</items>
 		</Table>
-		<!-- <core:Fragment fragmentName="my.nice.app.view.fragment.ContactInfo" type="XML" /> -->
+		<core:Fragment fragmentName="my.nice.app.view.fragment.ContactInfo" type="XML" />
 	</Page>
 </mvc:View>
